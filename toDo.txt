@@ -1,0 +1,7 @@
+framework.css file
+assemble all classes in onw @media... for each section
+scroll bar
+create hexagon with clip path
+burger icon effect
+text fill effect
+
