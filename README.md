@@ -8,5 +8,4 @@ Responsive landing website built with pure HTML and CSS.
 - Font Awesome icons
 
 ## Live Demo
-https://shadi-abu-jaber.github.io/molly-website/
-
+https://shadi-abu-jaber.github.io/Molly-Template/
